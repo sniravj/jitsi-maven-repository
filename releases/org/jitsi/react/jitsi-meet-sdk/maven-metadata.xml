@@ -6,9 +6,8 @@
     <latest>2.11.0-libre</latest>
     <release>2.11.0-libre</release>
     <versions>
-      <version>2.11.0</version>
       <version>2.11.0-libre</version>
     </versions>
-    <lastUpdated>20201027172821</lastUpdated>
+    <lastUpdated>20201028185029</lastUpdated>
   </versioning>
 </metadata>
