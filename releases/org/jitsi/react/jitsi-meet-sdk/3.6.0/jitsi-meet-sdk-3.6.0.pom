@@ -34,11 +34,6 @@
       <version>1.1.0</version>
     </dependency>
     <dependency>
-      <groupId>org.webkit</groupId>
-      <artifactId>android-jsc</artifactId>
-      <version>r245459</version>
-    </dependency>
-    <dependency>
       <groupId>com.jakewharton.timber</groupId>
       <artifactId>timber</artifactId>
       <version>4.7.1</version>
@@ -56,62 +51,67 @@
     <dependency>
       <groupId>com.facebook.react</groupId>
       <artifactId>react-native-device-info</artifactId>
-      <version>8.0.0-jitsi-8370810</version>
+      <version>8.0.0-jitsi-8371449</version>
     </dependency>
     <dependency>
       <groupId>com.facebook.react</groupId>
       <artifactId>react-native-async-storage</artifactId>
-      <version>1.13.2-jitsi-8370810</version>
+      <version>1.13.2-jitsi-8371449</version>
     </dependency>
     <dependency>
       <groupId>com.facebook.react</groupId>
       <artifactId>react-native-background-timer</artifactId>
-      <version>2.4.0-jitsi-8370810</version>
+      <version>2.4.0-jitsi-8371449</version>
     </dependency>
     <dependency>
       <groupId>com.facebook.react</groupId>
       <artifactId>react-native-community_netinfo</artifactId>
-      <version>6.0.0-jitsi-8370810</version>
+      <version>6.0.0-jitsi-8371449</version>
     </dependency>
     <dependency>
       <groupId>com.facebook.react</groupId>
       <artifactId>react-native-default-preference</artifactId>
-      <version>1.4.2-jitsi-8370810</version>
+      <version>1.4.2-jitsi-8371449</version>
     </dependency>
     <dependency>
       <groupId>com.facebook.react</groupId>
       <artifactId>react-native-immersive</artifactId>
-      <version>2.0.0-jitsi-8370810</version>
+      <version>2.0.0-jitsi-8371449</version>
     </dependency>
     <dependency>
       <groupId>com.facebook.react</groupId>
       <artifactId>react-native-keep-awake</artifactId>
-      <version>4.0.0-jitsi-8370810</version>
+      <version>4.0.0-jitsi-8371449</version>
     </dependency>
     <dependency>
       <groupId>com.facebook.react</groupId>
       <artifactId>react-native-sound</artifactId>
-      <version>0.11.0-jitsi-8370810</version>
+      <version>0.11.0-jitsi-8371449</version>
     </dependency>
     <dependency>
       <groupId>com.facebook.react</groupId>
       <artifactId>react-native-svg</artifactId>
-      <version>12.1.0-jitsi-8370810</version>
+      <version>12.1.0-jitsi-8371449</version>
     </dependency>
     <dependency>
       <groupId>com.facebook.react</groupId>
       <artifactId>react-native-webrtc</artifactId>
-      <version>1.89.1-jitsi-8370810</version>
+      <version>1.89.1-jitsi-8371449</version>
     </dependency>
     <dependency>
       <groupId>com.facebook.react</groupId>
       <artifactId>react-native-webview</artifactId>
-      <version>11.0.2-jitsi-8370810</version>
+      <version>11.0.2-jitsi-8371449</version>
     </dependency>
     <dependency>
       <groupId>com.facebook.react</groupId>
       <artifactId>react-native-splash-screen</artifactId>
-      <version>3.2.0-jitsi-8370810</version>
+      <version>3.2.0-jitsi-8371449</version>
+    </dependency>
+    <dependency>
+      <groupId>com.facebook</groupId>
+      <artifactId>hermes</artifactId>
+      <version>0.7.2</version>
     </dependency>
   </dependencies>
 </project>
